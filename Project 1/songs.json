@@ -1,0 +1,38 @@
+[
+    {
+        "Song Name": "Sweet Child O' Mine",
+        "Artist": "Guns N' Roses",
+        "Album": "Appetite for Destruction",
+        "Release Year": 1988
+    },
+    {
+        "Song Name": "Another Brick in the Wall (Part II)",
+        "Artist": "Pink Floyd",
+        "Album": "The Wall",
+        "Release Year": 1980
+    },
+    {
+        "Song Name": "Livin' On a Prayer",
+        "Artist": "Bon Jovi",
+        "Album": "Slippery When Wet",
+        "Release Year": 1986
+    },
+    {
+        "Song Name": "Bohemian Rhapsody",
+        "Artist": "Queen",
+        "Album": "A Night at the Opera",
+        "Release Year": 1975
+    },
+    {
+        "Song Name": "Welcome to the Jungle",
+        "Artist": "Guns N' Roses",
+        "Album": "Appetite for Destruction",
+        "Release Year": 1987
+    },
+    {
+        "Song Name": "Love of My Life",
+        "Artist": "Queen",
+        "Album": "A Night at the Opera",
+        "Release Year": 1975
+    }
+]
